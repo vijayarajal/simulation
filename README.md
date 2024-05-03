@@ -5,4 +5,4 @@
 4. View the Current Scope to observe the variable load current
 5. Repeat the same for test_49_finalvrload.slx and test_71_finalvrload.slx files to observe the load voltage and current.
 6. The results obtained from Simulation model of 31 level, 49 level and 71 level inverter can be viewed from 31vrmatlab.mat, 49vrmatlab.mat and 71vrmatlab.mat files respectively.
-7. Also the load waveforms are viewed directly from 31vrmatlab.fig, 49vrmatlab.fig and 71vrmatlab.fig files.
+7. Also the load waveforms can be viewed directly from 31vrmatlab.fig, 49vrmatlab.fig and 71vrmatlab.fig files.
